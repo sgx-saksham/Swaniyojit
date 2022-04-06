@@ -8,7 +8,7 @@ A one-stop solution aimed at uplfiting lives of rural women with employment and 
 We will construct a totally useful internet site called " Swaniyojit ", intending to offer employment opportunities to all of the ladies across rural areas. We pay attention to each professional in addition to the unskilled sectors of employment. The internet site has 2 essential components. The first one is the Job Portal for ladies seeking out jobs withinside the professional or unskilled sectors. It offers a listing of jobs from diverse employers published in it, having separate login as a business enterprise or an applicant. Women can pick out the roles in keeping with their desire of abilities and location., and practice accordingly. The second Component is a buying-promoting platform for the family self-hired ladies inclined to promote their homemade gadgets like handicrafts, farm products, etc. The customer can purchase as a good deal as he/she wants, upload it to the cart and pay for it (which might assist them to aid their livelihoods). Lastly, we tend to offer a few assets and focus approximately authorities' schemes for rural ladies for her upliftment. We offer a one-forestall answer and manual for the agricultural ladies to come to be self-dependent subsequently rightly called " Swaniyojit ".
 .
 
-<img src="Screenshots/poster.jpeg" width="700">
+<img src="Screenshots/poster.jpg" width="700">
 
 ## Features
 
